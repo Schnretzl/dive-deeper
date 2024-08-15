@@ -12,6 +12,7 @@ elif second >= first and second >= third:
 else:
     print(f'{third} is the largest number.')
     
+    
 # Task 2: Identify the Smallest
 if first <= second and first <= third:
     print(f'{first} is the smallest number.')
